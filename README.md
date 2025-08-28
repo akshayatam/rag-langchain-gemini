@@ -8,7 +8,6 @@
 
 ## 📖 Overview
 This repository contains my walkthrough implementation of a **Retrieval-Augmented Generation (RAG)** pipeline using **LangChain** and **Google Gemini**.  
-The project was inspired by an [Educative.io](https://www.educative.io/) course, where I followed structured tasks to explore LangChain’s integration with Gemini and experiment with configuration parameters.
 
 Although not a full production project, it showcases how Gemini can be connected with LangChain to create contextual responses, experiment with parameters, and build a simple RAG system on top of PDF data.
 
